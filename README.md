@@ -1,0 +1,2 @@
+# ShopBridge
+Basic Inventory Api
