@@ -7,4 +7,3 @@ id, name, description, price, quantity, hsn_sac, createdOn, updatedOn.
 Set id as primary not null autoincrement.
 change the password in appsettings.json
 Run the project.
-Tada
